@@ -1,6 +1,6 @@
 {
     "name": "ng-table",
-    "version": "0.3.1",
+    "version": "0.3.1-npm",
     "author": "Vitalii Savchuk <esvit666@gmail.com>",
     "license": "BSD",
     "main": "ng-table.js",
